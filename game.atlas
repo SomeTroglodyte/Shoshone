@@ -1,28 +1,21 @@
 
 game.png
-size: 512, 256
+size: 1024, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 NationIcons/Shoshone
   rotate: false
-  xy: 220, 32
+  xy: 544, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ReligionIcons/Shamanism
   rotate: false
-  xy: 112, 4
+  xy: 436, 4
   size: 100, 100
   orig: 100, 100
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Units/Comanche Riders
-  rotate: false
-  xy: 4, 112
-  size: 128, 128
-  orig: 128, 128
   offset: 0, 0
   index: -1
 UnitIcons/Comanche Riders
@@ -34,21 +27,21 @@ UnitIcons/Comanche Riders
   index: -1
 UnitIcons/Pathfinder
   rotate: false
-  xy: 356, 140
+  xy: 328, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Full Moon Striker
   rotate: false
-  xy: 140, 140
+  xy: 112, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Native Tongue
   rotate: false
-  xy: 248, 140
+  xy: 220, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
